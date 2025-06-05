@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devops-portfolio/static/css/main.ca907760.css",
+    "main.js": "/devops-portfolio/static/js/main.b8a1877f.js",
+    "index.html": "/devops-portfolio/index.html",
+    "main.ca907760.css.map": "/devops-portfolio/static/css/main.ca907760.css.map",
+    "main.b8a1877f.js.map": "/devops-portfolio/static/js/main.b8a1877f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca907760.css",
+    "static/js/main.b8a1877f.js"
+  ]
+}
