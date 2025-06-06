@@ -1,5 +1,5 @@
 import React from "react";
-import projectImage from "../assets/project1.png";
+import projectImage from "../assets/project1.jpg";
 
 const projects = [
   {
