@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/devops-portfolio/static/css/main.814261a9.css",
-    "main.js": "/devops-portfolio/static/js/main.b53bb454.js",
-    "static/media/aws.png": "/devops-portfolio/static/media/aws.70ece083f881391d769b.png",
+    "main.css": "/devops-portfolio/static/css/main.60af88ac.css",
+    "main.js": "/devops-portfolio/static/js/main.9beb842b.js",
     "static/media/blog1.jpg": "/devops-portfolio/static/media/blog1.4d4b051ce771448e325e.jpg",
     "static/media/project1.jpg": "/devops-portfolio/static/media/project1.8a4cbb2bec1d56bf1ed6.jpg",
     "static/media/hero-bg.jpg": "/devops-portfolio/static/media/hero-bg.3391f99f5064ff81a2a2.jpg",
-    "static/media/jenkins.png": "/devops-portfolio/static/media/jenkins.317e70b71c1b78349205.png",
-    "static/media/docker.png": "/devops-portfolio/static/media/docker.8f75074f7d9bcdf2cc53.png",
-    "static/media/kubernetes.png": "/devops-portfolio/static/media/kubernetes.144a10c715b1bf02ddac.png",
     "index.html": "/devops-portfolio/index.html",
-    "main.814261a9.css.map": "/devops-portfolio/static/css/main.814261a9.css.map",
-    "main.b53bb454.js.map": "/devops-portfolio/static/js/main.b53bb454.js.map"
+    "main.60af88ac.css.map": "/devops-portfolio/static/css/main.60af88ac.css.map",
+    "main.9beb842b.js.map": "/devops-portfolio/static/js/main.9beb842b.js.map"
   },
   "entrypoints": [
-    "static/css/main.814261a9.css",
-    "static/js/main.b53bb454.js"
+    "static/css/main.60af88ac.css",
+    "static/js/main.9beb842b.js"
   ]
 }
