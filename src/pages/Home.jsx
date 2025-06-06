@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 
 // Background and images
 import heroBg from "../assets/hero-bg.jpg";
-import projectPreview from "../assets/project-preview.jpg";
-import blogPreview from "../assets/blog-preview.jpg";
+import projectPreview from "../assets/project1.jpg";
+import blogPreview from "../assets/blog1.jpg";
 
 // Tool Icons
 import awsIcon from "../assets/skills/aws.png";
